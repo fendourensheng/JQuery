@@ -1,0 +1,26 @@
+.content input {
+    padding: 5 px 10 px;
+    width: 200 px;
+    margin-left: 40%;
+}
+
+ul.list {
+    list-style: none;
+    padding: 0 px;
+    margin: 0 px;
+    overflow: hidden;
+}
+
+ul.list li {
+    border: 1 px solid #EEE;
+    width: 180 px;
+    padding: 5 px 10 px;
+    margin: 0 px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-left: 39%;
+}
+
+.lilight {
+    background-color: #fafafa;
+}
